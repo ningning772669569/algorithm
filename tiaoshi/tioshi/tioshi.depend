@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1422929512 source:d:\Ëã·¨\µ÷ÊÔ\tioshi\main.c
+	"stdio.h"
+
+1433339199 source:d:\algorithm\tiaoshi\tioshi\main.c
+	"stdio.h"
+	"stdlib.h"
+
